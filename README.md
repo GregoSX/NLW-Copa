@@ -16,6 +16,8 @@ No diretório server:
 6) npm i prisma -D
 7) npm i @prisma/client
 8) npx prisma init --datasource-provider SQLite
+9) npm i prisma-erd-generator @mermaid-js/mermaid-cli -D 
+10) npx prisma generate 
 
 Quando criar uma tabela pelo prisma execute o comando:
 
