@@ -38,5 +38,6 @@ npx prisma studio
 - Fastify
 - Prisma
 - React
+- React Native
 - NextJS
 - SQLite
