@@ -12,6 +12,7 @@ No diretório server:
 2) npm i typescript -D
 3) npx tsc --init
 4) npm i fastify
+5) npm i tsx -D
 
 ## Tecnologias utilizadas
 
