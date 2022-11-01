@@ -2,7 +2,7 @@
 Trilha Ignite NLW Copa Rockeatseat. 
 
 
-## Setup
+## Setup Backend
 
 Instalar NodeJS com versão maior que 16.0.
 
@@ -18,8 +18,9 @@ No diretório server:
 8) npx prisma init --datasource-provider SQLite
 9) npm i prisma-erd-generator @mermaid-js/mermaid-cli -D 
 10) npx prisma generate 
+11) npm i @fastify/cors
 
-Quando criar uma tabela pelo prisma execute o comando:
+Quando criar a primeira tabela pelo prisma execute o comando:
 
 npx prisma migrate dev
 
