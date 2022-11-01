@@ -32,6 +32,10 @@ npx prisma studio
 
 1) npx create-next-app@latest --use-npm
 
+## Setup Mobile
+
+1) npx create-expo-app my-app
+
 ## Tecnologias utilizadas
 
 - NodeJS
