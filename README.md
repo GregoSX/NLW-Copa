@@ -28,6 +28,10 @@ Para visualizar o nosso banco de dados pelo navegador executamos o comando:
 
 npx prisma studio
 
+## Setup Frontend
+
+1) npx create-next-app@latest --use-npm
+
 ## Tecnologias utilizadas
 
 - NodeJS
