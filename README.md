@@ -35,6 +35,9 @@ npx prisma studio
 ## Setup Mobile
 
 1) npx create-expo-app my-app
+2) npm i native-base --force
+3) npx expo install react-native-svg@12.1.1
+4) 
 
 ## Tecnologias utilizadas
 
