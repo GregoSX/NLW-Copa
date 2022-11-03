@@ -1,5 +1,5 @@
 import Fastify from "fastify";
-import { PrismaClient } from "@prisma/client"
+import { PrismaClient } from "@prisma/client";
 import cors from "@fastify/cors";
 
 const prisma = new PrismaClient({
