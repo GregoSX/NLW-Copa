@@ -1,3 +1,5 @@
+const { url } = require('inspector');
+
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
@@ -7,6 +9,10 @@ module.exports = {
     extend: {
       fontFamily: {
         sans: 'Roboto, sans-serif'
+      },
+
+      backgroundImage: {
+        app: 'url(/app-bg.png)'
       },
 
       colors: {
